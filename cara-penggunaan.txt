@@ -1,4 +1,4 @@
-Jalankan 
+Jalankan program parseXML2.py di terminal windows atau linux
 
 #format eksekusi program:
 #parseXML2.py argv[1] argv[2]
