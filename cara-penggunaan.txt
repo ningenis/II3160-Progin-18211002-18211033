@@ -1,3 +1,9 @@
+Tugas 1
+
+Jalankan file index.php dari localhost. Kemudian klik tombol untuk melakukan konversi.
+
+Tugas 2 
+
 Jalankan program parseXML2.py di terminal windows atau linux
 
 #format eksekusi program:
