@@ -29,3 +29,15 @@ Tugas 2
     #parseXML2.py argv[1] argv[2]
     #argv[1] untuk nama file xml
     #argv[2] untuk nama tag/tabel yang dicari
+
+Tugas 3
+
+  > letakkan semua clone di folder ../progin-itb/
+  > semua folder yang akan dijalankan diletakkan di folder ../htdocs/
+  > jalankan xampp localhost server untuk mysql dan apache server
+  > buka file "tugas3_useAPI.php"
+  > pada laman web terdapat beberapa URI yang dapat diakses datanya
+  > copy paste 1 buah URI yang akan ditampilkan datanya
+  > submit, kemudian hasil keluaran akan muncul di laman tersebut dalam bentuk tabel
+  
+  
