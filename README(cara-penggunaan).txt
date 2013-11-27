@@ -52,8 +52,7 @@ Tugas 3
     > URI Lain
     > pada laman web terdapat URI yang menyediakan web service
     > copy paste 1 buah URI yang akan digunakan datanya melalui web service
-    > untuk melihat dalam format tabel: isi URI, kosongkan pencarian, lalu submit
-    > untuk pencarian spesifik: isi URI, isi pencarian sesuai nilai kolom pertama pada tabel, submit
-    > hasil pencarian spesifik berupa data xml
+    > untuk melihat semua data dalam bentuk tabel: isi URI, kosongkan pencarian, lalu submit
+    > untuk pencarian spesifik: isi URI, isi pencarian sesuai nilai kolom pertama pada tabel(id), submit
   
   
