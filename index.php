@@ -25,9 +25,8 @@
 	</div>
 	<div class="other">
 			<h4><b>Data URI Lain [Tugas 3]</b></h4>
-			<a href="http://localhost/II3160-Progin-18211002-18211033/getOthers.php?inputURI=http://localhost/habib-andy/index.php/ws/menu/semua"><button>Punya Andy-Habib</button></a>
-			<a href="http://localhost/II3160-Progin-18211002-18211033/getOthers.php?inputURI=http://localhost/progin-raosanfady/show.php/?=all"><button>Punya Raosan</button></a>
-	</div>
+				<a href="http://www.sti-itb.org/II3160-Progin-18211002-18211033/getOthers.php?inputURI=http://www.sti-itb.org/habib-andy/index.php/ws/menu/semua"><button>Punya Andy-Habib</button></a>
+			<a href="http://www.sti-itb.org/II3160-Progin-18211002-18211033/getOthers.php?inputURI=http://www.sti-itb.org/progin-raosanfady/show.php/?id=all"><button>Punya Raosan</button></a>
 	<div name="outputcsv" class="outputdiv">
 		<p style="color:white" class="text">Output File CSV</p>
 		<textarea class="output">
