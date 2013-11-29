@@ -16,6 +16,18 @@
 			<input type="submit" class="button">	
 		</form>
 	</div>
+	<div class="self">
+			<h4>Data Record (Data lokal) [Tugas 2]</h4>
+			<a href="getSelf.php/?input=semua"><button>all files</button></a>
+			<a href="getSelf.php/?input=1"><button>Record ke 1</button></a>
+			<a href="getSelf.php/?input=25"><button>Record ke 25</button></a>
+			<p>URI untuk digunakan: ./II3160-Progin-18211002-18211033/getSelf.php?input=semua</p>
+	</div>
+	<div class="other">
+			<h4><b>Data URI Lain [Tugas 3]</b></h4>
+			<a href="http://localhost/II3160-Progin-18211002-18211033/getOthers.php?inputURI=http://localhost/habib-andy/index.php/ws/menu/semua"><button>Punya Andy-Habib</button></a>
+			<a href="http://localhost/II3160-Progin-18211002-18211033/getOthers.php?inputURI=http://localhost/progin-raosanfady/show.php/?=all"><button>Punya Raosan</button></a>
+	</div>
 	<div name="outputcsv" class="outputdiv">
 		<p style="color:white" class="text">Output File CSV</p>
 		<textarea class="output">
