@@ -6,10 +6,10 @@
 	if (($nameItem == NULL || $nameItem == 'semua') && isset($nameURI)) {
 		echo "<table border='1'>";
 		echo "<tr>";
-		foreach($xml->children()->children() as $key)
-		{
-			echo "<td>",$key->getName(),"</td>";
-		}
+		// foreach($xml->children()->children() as $key)
+		// {
+		// 	echo "<td>",$key->getName(),"</td>";
+		// }
 		foreach ($xml->children() as $value) {
 			echo "<tr>";
 			foreach($value->children() as $key)
